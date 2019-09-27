@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Py_AI
 Talk to your computer and have it do stuff for you!
 
@@ -57,3 +58,6 @@ Uses the google speech recognition API and this is where you tell your A.I what 
 
 # Future
 All of this is editable. If you would like further additions, newer features, or have any ideas, feel free to email me at gravim3tric@outlook.com. Alternatively, you can download the source code yourself, and add more to the "mods" folder where each function is written, then update the main TT1.py file so you can assign that function a keyword.
+=======
+# Talk
+>>>>>>> 7f8c0bff19ee7f49a0a1ccd83a8b95f29fbcd324
